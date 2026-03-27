@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+.card {
+    text-align: center;
+}
+.po {
+    border-radius: 0px;
+}
+.texto {
+    display: flex;
+    justify-content: center;
+}
+.texto div {
+    width: 190px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+  }
